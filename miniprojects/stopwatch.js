@@ -1,3 +1,12 @@
+/*
+Author: Salem Maina
+Date: 10/06/2025
+This is my learning of JavaScript. Jump in the journey with me.
+Here's the miniproject test description:
+StopWatch
+
+Description: A stopwatch that returns duration between when it started and stopped.
+*/
 function Stopwatch(duration) {
     this.duration = 0; // in seconds
     this.startTime = null;

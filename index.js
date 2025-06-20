@@ -5,8 +5,6 @@ let person = {
 let selection = "name";
 person[selection] = "Jane";
 
-let selectedColor = [];
-console.log(person[selection]);
 console.log(person.name);
 
 function greet(name,  age){
